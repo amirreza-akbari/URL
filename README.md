@@ -1,37 +1,41 @@
-# URL Manager App 📌
+# 📌 URL Manager App
 
-A simple and modern Android application to manage your URLs.  
-Add, edit, and open URLs easily in your favorite browser.  
-
----
-
-## Features ✨
-
-- Add URLs to a list with a simple interface  
-- Edit or remove URLs at any time  
-- Open URLs in the default browser with a single tap  
-- Swipe left to delete items  
-- Persistent storage using SharedPreferences  
-- Beautiful and modern UI with rounded corners, shadows, and gradient buttons  
+A **modern Android application** to manage your URLs efficiently.  
+Add, edit, open, and delete URLs with a beautiful and clean interface.
 
 ---
 
-## Screenshots 🖼️
+## ✨ Features
 
-<!-- Add your screenshots here -->
-![Screenshot 1](link-to-screenshot1.png)
-![Screenshot 2](link-to-screenshot2.png)
+- ✅ Add new URLs to a list  
+- ✅ Edit or update existing URLs  
+- ✅ Open URLs in your default browser  
+- ✅ Swipe left to delete URLs  
+- ✅ Persistent storage using **SharedPreferences**  
+- ✅ Modern UI with **rounded corners, shadows, and gradient buttons**  
 
 ---
 
-## Getting Started 🚀
+## 🛠 Built With
+
+| Technology | Purpose |
+|------------|---------|
+| Java       | Programming language |
+| Android Studio | IDE |
+| RecyclerView | List display |
+| SharedPreferences | Persistent storage |
+| Gson       | JSON serialization |
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
-- Android Studio installed
-- Minimum SDK version: 31
-- Java 8+
+- Android Studio installed  
+- Java 8+  
+- Minimum SDK: 31  
 
 ### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/url-manager-app.git
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/url-manager-app.git
